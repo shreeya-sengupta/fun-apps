@@ -3,4 +3,5 @@ Contains some programs / applications that have been created as a fun way to exp
 ##### SpyTheColour - An app based on object detection using PyTorch. Can be used to spy (locate) the objects of a specific colour in an image
                     - Inputs: Image, colour to be spied on
                     - Output: Image showing the object matching the input colour
+                    - Tech used - Python, PyTorch Detectron2
                     - Inspired by the I Spy app by Cami Williams.
